@@ -7,10 +7,13 @@ Requisitos
 Python 3.x
 Bibliotecas: cv2, pytesseract, pyautogui, pygetwindow, Pillow (instaláveis via pip)
 Tesseract OCR instalado (certifique-se de configurar o caminho correto para o executável do Tesseract no código)
+
 Instalação e Configuração
+
 1°) Clone este repositório para o seu ambiente local.
 
 2°) pip install opencv-python pytesseract pyautogui pygetwindow Pillow
+
 3°) Instale o Tesseract OCR e configure o caminho no código.
 
 Uso
